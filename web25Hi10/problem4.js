@@ -1,0 +1,16 @@
+var name = "name=hiten";
+var school = "school=tjc highschool";
+var grade = "grade=B";
+var section = "section=A";
+var rollno = "rollno = 25";
+var english = "english=35";
+var maths = "maths=40";
+var it = "it=45";
+console.log(name);
+console.log(school);
+console.log(grade);
+console.log(section);
+console.log(rollno);
+console.log(english);
+console.log(maths);
+console.log(it);
